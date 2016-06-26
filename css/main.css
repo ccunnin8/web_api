@@ -1,0 +1,16 @@
+* {
+	font-family: "Poiret One";
+}
+.albums {
+	display: flex;
+	flex-wrap: wrap;
+	width: 80%;
+	max-width: 1020px;
+	margin: 0 auto;
+}
+.albums img {
+	padding: 20px;
+};
+.caption p {
+	display: block;
+}
